@@ -32,8 +32,8 @@ login with Admin Email: "admin@admin.com" & Password: "123456789" to login to ad
 ## Created by : 
 [Aly Samy](alysamyrady@gmail.com) <br>
 [Alaa Nassar](alaanassar1211@gmail.com) <br>
-[Toqa Newir](tokanewer1234@gmail.com) <br>
-[Ahmed Fayz](ahmedhimida4321@gmail.com) <br>
+[Toqa Newer](tokanewer1234@gmail.com) <br>
+[Ahmed Fayez](ahmedhimida4321@gmail.com) <br>
 [Kareem Mohamed](Kareem.abouzait@gmail.com) <br>
 [Fouad Adel](Fouad.adel262@gmail.com) <br>
 
